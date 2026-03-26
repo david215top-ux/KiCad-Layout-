@@ -1,4 +1,4 @@
-# KiCad-Layout-
+# KiCad V10.0 -Layout-
 找回台灣早期Layout專有名詞
 原理圖 ---> 電路圖
 
@@ -12,3 +12,4 @@
 
 飛線 ---> 鼠線 
 除了以上還有其他更好的台灣常用Layout名詞，歡迎各位提供，謝謝各位！
+請將kicad.mo複製到c:\Program Files\KiCad\10.0\share\kicad\internat\zh_TW\目錄下
