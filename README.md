@@ -1,4 +1,4 @@
-# KiCad V10.0 -Layout-
+# KiCad V10.0.2 -Layout-
 找回台灣早期Layout專有名詞
 原理圖 ---> 電路圖
 
