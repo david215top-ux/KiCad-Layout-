@@ -1,5 +1,6 @@
-# KiCad V10.0.2 -Layout-
+# KiCad V10.0.4 -Layout-
 找回台灣早期Layout專有名詞
+
 原理圖 ---> 電路圖
 
 焊盤 ---> 焊點
